@@ -1,0 +1,6 @@
+projectKey=teste.AppCalculadora
+serverUrl=http://localhost:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9000/dashboard?id=teste.AppCalculadora
+ceTaskId=AWrB4CGVVpS90jElt31n
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWrB4CGVVpS90jElt31n
